@@ -4,7 +4,7 @@
 ###### Address the common problem of limited and imbalanced datasets in medical imaging by using GANs to generate realistic synthetic images of rare conditions. This can improve the training of diagnostic AI models.
 
 ## 📁 Project Structure
-
+```
 synthetic_medical_gan/
 ├── data/
 │   └── brain_tumor/
@@ -18,7 +18,7 @@ synthetic_medical_gan/
 ├── utils/
 │   └── data_loader.py
 └── main.py
-
+```
 
 ### Description
 
